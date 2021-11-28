@@ -1,0 +1,8 @@
+Use Q and D to rotate your boat
+Press SPACE to move
+Move your mouse to aim your cannon(s)
+Press A and E to switch between cannons
+Press T to fire
+
+Beat enemies and get their treasures to get more cannons
+Beat all enemies to win

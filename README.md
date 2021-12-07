@@ -6,6 +6,9 @@ The goal of this project was to use a codebase provided by a teacher to develop 
 
 This project allowed me to get a practical understing of openGL and graphics rendering in general in C++. I also got to test a physics engine I was developping on my free time. I also learnt the way shaders work and got to make my own shader using glsl.
 This project does not use any game engine or graphics library.
+![](https://github.com/PeteGuy/PirateLife/blob/master/Screenshot/StartScreen.PNG)
+
+![](https://github.com/PeteGuy/PirateLife/blob/master/Screenshot/FightSituation.PNG)
 
 # Install
 Right now the only way to use this project is through visual studio. Simply get the code, build and run.
